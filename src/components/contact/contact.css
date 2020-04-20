@@ -1,0 +1,28 @@
+.contact__block {
+  margin: 0 auto;
+  max-width: 300px;
+  height: 100%;
+  padding: 10px 30px 30px 70px;
+  display: flex;
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  background-color: #252a36;
+  color: #aeb1b8;
+  font-weight: 500;
+  text-align: center;
+}
+.contact__block img {
+  position: absolute;
+  top: 40px;
+  width: 70px;
+  height: 70px;
+  left: 50px;
+}
+.contact__block .contact__info-inner {
+  margin-left: 70px;
+}
+.contact__info-inner .link__to-phone {
+  text-decoration: none;
+  color: #aeb1b8;
+  cursor: pointer;
+}

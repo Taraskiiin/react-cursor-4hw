@@ -1,0 +1,22 @@
+.hw__inner {
+  padding-top: 50px;
+  background-color: #252a36;
+  height: 100%;
+  padding-bottom: 100%;
+}
+.contacts__list {
+  margin: 0;
+  background-color: #252a36;
+}
+.contacts__list li {
+  list-style: none;
+}
+.hw__inner form input {
+  width: 300px;
+  height: 30px;
+  border-radius: 10px;
+  margin-left: calc(50% - 140px);
+  padding-left: 20px;
+  font-size: 24px;
+  border: none;
+}

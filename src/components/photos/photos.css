@@ -1,0 +1,16 @@
+.photos__inner{
+    background-color: #252a36;
+    width: 100%;
+}
+.photos__container-wrapper{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.photos__inner img{
+    width: 900px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+}
+.photos__inner img:first-child{
+    margin-top: 40px;
+}
