@@ -1,8 +1,8 @@
 import React from "react";
 import photo1 from "../assets/img/cock1.jpg";
 import photo2 from "../assets/img/cock2.jpg";
-import photo3 from "../assets/img/cock3.jpg";
-import photo4 from "../assets/img/cock4.jpg";
+import photo4 from "../assets/img/cock3.jpg";
+import photo3 from "../assets/img/cock4.jpg";
 import photo5 from "../assets/img/cock5.jpg";
 import "./photos.css";
 
