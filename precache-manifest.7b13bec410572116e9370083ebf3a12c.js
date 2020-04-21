@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84329e423eb1ce31b7097521b704388c",
+    "revision": "84339b272c267a00cd8c16ad2112587d",
     "url": "/react-cursor-4hw/index.html"
   },
   {
-    "revision": "613c2f6203102d9410bb",
-    "url": "/react-cursor-4hw/static/css/main.abc59bfd.chunk.css"
+    "revision": "d9942864eee5d5ec248d",
+    "url": "/react-cursor-4hw/static/css/main.d31b4db1.chunk.css"
   },
   {
     "revision": "df64f73371374a3f5b84",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-cursor-4hw/static/js/2.7504af18.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "613c2f6203102d9410bb",
-    "url": "/react-cursor-4hw/static/js/main.241d8b5f.chunk.js"
+    "revision": "d9942864eee5d5ec248d",
+    "url": "/react-cursor-4hw/static/js/main.d6fa43bd.chunk.js"
   },
   {
     "revision": "ad5ce0caeb94a56818d6",
@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "77c99546ffec1a26233cfc63d5facca2",
     "url": "/react-cursor-4hw/static/media/post1.77c99546.jpg"
-  },
-  {
-    "revision": "7f7e8718907119c2a8c0a160d97a12f4",
-    "url": "/react-cursor-4hw/static/media/post2.7f7e8718.jpg"
   },
   {
     "revision": "c469b07e440ed007af428a4170a348da",
