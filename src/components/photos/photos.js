@@ -10,11 +10,11 @@ function Photos() {
   return (
     <div className="photos__inner">
       <div className="photos__container-wrapper">
-        <img src={photo1} alt="post-photo" />
-        <img src={photo2} alt="post-photo" />
-        <img src={photo3} alt="post-photo" />
-        <img src={photo4} alt="post-photo" />
-        <img src={photo5} alt="post-photo" />
+        <img src={photo1} alt="photo my cock" />
+        <img src={photo2} alt="my cock on the mirror" />
+        <img src={photo3} alt="my sweet cock" />
+        <img src={photo4} alt="mmmmmm cock in hot watter" />
+        <img src={photo5} alt="mastrubite" />
       </div>
     </div>
   );

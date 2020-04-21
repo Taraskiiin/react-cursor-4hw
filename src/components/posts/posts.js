@@ -22,15 +22,6 @@ class Posts extends React.Component {
           avatar="https://www.meme-arsenal.com/memes/f6da12f07ab48e36aeae7e7df5444b9b.jpg"
           name="бабуся Катя"
           nickname="@dart_vader"
-          content="- Я думаю, вам пора прекратить маструбировать
-          ... - Почему ? ... - Потому что я пытаюсь с вами поговорить?!"
-          date="26 февр."
-          postimg={postimg2}
-        />
-        <Post
-          avatar="https://www.meme-arsenal.com/memes/f6da12f07ab48e36aeae7e7df5444b9b.jpg"
-          name="бабуся Катя"
-          nickname="@dart_vader"
           content="Лучше один день прожить - волком, чем сто лет - шакалом."
           date="26 февр."
           postimg={postimg3}
