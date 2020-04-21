@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-cursor-4hw/static/css/main.eeabf55d.chunk.css",
-    "main.js": "/react-cursor-4hw/static/js/main.ee21b4b5.chunk.js",
-    "main.js.map": "/react-cursor-4hw/static/js/main.ee21b4b5.chunk.js.map",
+    "main.css": "/react-cursor-4hw/static/css/main.abc59bfd.chunk.css",
+    "main.js": "/react-cursor-4hw/static/js/main.241d8b5f.chunk.js",
+    "main.js.map": "/react-cursor-4hw/static/js/main.241d8b5f.chunk.js.map",
     "runtime-main.js": "/react-cursor-4hw/static/js/runtime-main.2d0a900c.js",
     "runtime-main.js.map": "/react-cursor-4hw/static/js/runtime-main.2d0a900c.js.map",
-    "static/js/2.b194847d.chunk.js": "/react-cursor-4hw/static/js/2.b194847d.chunk.js",
-    "static/js/2.b194847d.chunk.js.map": "/react-cursor-4hw/static/js/2.b194847d.chunk.js.map",
+    "static/js/2.7504af18.chunk.js": "/react-cursor-4hw/static/js/2.7504af18.chunk.js",
+    "static/js/2.7504af18.chunk.js.map": "/react-cursor-4hw/static/js/2.7504af18.chunk.js.map",
     "index.html": "/react-cursor-4hw/index.html",
-    "precache-manifest.682c01553898b77f93705ea9c7115871.js": "/react-cursor-4hw/precache-manifest.682c01553898b77f93705ea9c7115871.js",
+    "precache-manifest.4b4ec8a692b22917ffab10402612fc26.js": "/react-cursor-4hw/precache-manifest.4b4ec8a692b22917ffab10402612fc26.js",
     "service-worker.js": "/react-cursor-4hw/service-worker.js",
-    "static/css/main.eeabf55d.chunk.css.map": "/react-cursor-4hw/static/css/main.eeabf55d.chunk.css.map",
-    "static/js/2.b194847d.chunk.js.LICENSE.txt": "/react-cursor-4hw/static/js/2.b194847d.chunk.js.LICENSE.txt",
+    "static/css/main.abc59bfd.chunk.css.map": "/react-cursor-4hw/static/css/main.abc59bfd.chunk.css.map",
+    "static/js/2.7504af18.chunk.js.LICENSE.txt": "/react-cursor-4hw/static/js/2.7504af18.chunk.js.LICENSE.txt",
     "static/media/home.css": "/react-cursor-4hw/static/media/austin-ban-IS6RwpuEJpY-unsplash.03064a97.jpg",
     "static/media/cock1.jpg": "/react-cursor-4hw/static/media/cock1.ad5c3440.jpg",
     "static/media/cock2.jpg": "/react-cursor-4hw/static/media/cock2.14de77d0.jpg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2d0a900c.js",
-    "static/js/2.b194847d.chunk.js",
-    "static/css/main.eeabf55d.chunk.css",
-    "static/js/main.ee21b4b5.chunk.js"
+    "static/js/2.7504af18.chunk.js",
+    "static/css/main.abc59bfd.chunk.css",
+    "static/js/main.241d8b5f.chunk.js"
   ]
 }
