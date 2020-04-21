@@ -1,7 +1,6 @@
 import React from "react";
 import Post from "./post";
 import postimg1 from "../assets/img/post1.jpg";
-import postimg2 from "../assets/img/post2.jpg";
 import postimg3 from "../assets/img/post3.jpg";
 import postimg4 from "../assets/img/post4.jpg";
 import "./posts.css"
